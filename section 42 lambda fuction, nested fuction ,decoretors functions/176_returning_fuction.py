@@ -1,4 +1,4 @@
-"""outer fuction runs only one time dose not run two times hense i called f() three times"""
+"""outer fuction runs only one time dose not run two times hense i called f() three"""
 def outer ():
     print("car")
     def inner():
